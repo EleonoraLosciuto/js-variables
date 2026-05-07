@@ -17,6 +17,10 @@ console.log(number);
 console.log(text);
 console.log(bool);
 
+console.log(typeof number);
+console.log(typeof bool);
+console.log(typeof text);
+
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
