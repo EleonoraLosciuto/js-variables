@@ -46,7 +46,6 @@ console.log(myArray2);
 const myArray3 = text.split(" ", 3) //I only want "how are you"
 console.log(myArray3);
 
-
 const myArray4 = text.split("o"); //I split the string by "o" character
 console.log(myArray4);
 
